@@ -1,2 +1,2 @@
 # MortgageCalculator
-A simple mortgage calculator in java used to refresh my fundamental knowledge.
+A command line mortgage calculator built in java.
